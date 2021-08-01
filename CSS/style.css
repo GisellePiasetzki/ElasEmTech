@@ -10,10 +10,18 @@
 }
 .btn-primary {
     background-color: #A5A58D;
-    color: #FFE8D6;
     border: none;
     margin-bottom: 1rem;
 }
+
+a {
+    text-decoration: none;
+    color: #FFE8D6;
+}
+a:hover{
+    color: #FFE8D6;
+}
+
 body{
     background-color: #DDBEA9;
     font-family: sans-serif;
