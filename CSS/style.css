@@ -1,0 +1,53 @@
+.navbar-light .navbar-brand{
+    color: #FFE8D6;
+}
+.col{
+    margin: auto;
+}
+.btn btn-primary {
+    margin-top: 1rem;
+    padding: 9rem;
+}
+.btn-primary {
+    background-color: #A5A58D;
+    color: #FFE8D6;
+    border: none;
+    margin-bottom: 1rem;
+}
+body{
+    background-color: #DDBEA9;
+    font-family: sans-serif;
+    color: #6B705C;
+}
+img{
+    border-radius: 10rem;
+}
+
+.bg-light {
+    background-color: #A5A58D !important;
+}
+.btn-primary:active{
+    background-color: #6B705C;
+}
+.btn-primary:hover{
+    background-color: #6B705C
+}
+
+.container {
+    background-color: #FFE8D6;
+    margin: 5rem auto;
+}
+
+.item-botton {
+    background-color: #A5A58D;
+    color: #FFE8D6;
+    border-radius: 1rem;
+    margin: auto;
+}
+
+ .row {
+   justify-content: center;
+}
+h3{
+    background-color: #DDBEA9;
+}
